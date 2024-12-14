@@ -356,7 +356,7 @@ def search_places(query, api_key, output_file='yeah tghis is it.txt'):
 
 # Usage example
 if __name__ == '__main__':
-    api_key = '20402ecb74d2098f5ec8109db0258c962845611afe14ec895074756b7f81c346'   
+    api_key = 'api key here'   
     try:
         results = search_places(
             query='wedding venue', 
